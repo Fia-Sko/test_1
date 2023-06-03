@@ -15,10 +15,6 @@ public class Cat {
         this.age = age;
         this.color = color;
         catCount++;
-        catCount++;
-        catCount++;
-        catCount++;
-
     }
 
     public void meow() {
